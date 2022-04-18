@@ -17,44 +17,27 @@ permalink: /sport/
     }
 
     .slide {
-        display: flex;
-        justify-items: center;
-        align-items: center;
-        height: 95%;
-        border-style: solid;
-        border-radius: 2vh;
-        box-shadow: 0px 0px 0.5vh #8c939c;
+        display: grid;
+        width: 28vh;
+        grid-template-columns: 100%;
+        grid-template-rows: 80% 20%;
+        grid-template-areas:
+            "image"
+            "txt";
     }
     .image {
-        max-height: 80%;
-        max-width: 80%;
+        padding: 1vh;
+        grid-area: image;
     }
     .text {
+        display: flex;
         text-align: center;
-    }
-    #pnl-1 {
-        display: grid;
-        grid-template-columns: 1fr;
-        grid-template-rows: 1fr 0.25fr;
-        grid-template-areas:
-            "img-1"
-            "txt-1";
-    }
-    #pnl-2 {
-        display: grid;
-        grid-template-columns: 1fr;
-        grid-template-rows: 1fr 0.25fr;
-        grid-template-areas:
-            "img-2"
-            "txt-2";
-    }
-    #pnl-3 {
-        display: grid;
-        grid-template-columns: 1fr;
-        grid-template-rows: 1fr 0.25fr;
-        grid-template-areas:
-            "img-3"
-            "txt-3";
+        justify-content: center;
+        align-items: center;
+        color: #ffffff;
+        background-color: #6e829a;
+        border-radius: 0 0 2vh 2vh;
+        grid-area: txt;
     }
     #introfade {
         height: 1.5vh;
@@ -65,16 +48,16 @@ permalink: /sport/
 
 <div id="carousel">
     <div id="pnl-1" class="slide">
-        <img id="img-1" class="image" src="../assets/sport/braids.jpg"/>
-        <p id="txt-1" class="text"> > player movement patterns <br/> > algebraic braids </p>
+        <div id="img-1" class="image"><img src="../assets/sport/braids.jpg"/></div>
+        <div id="txt-1" class="text"> > player movement patterns <br/> > algebraic braids </div>
     </div>
     <div id="pnl-2" class="slide">
-        <img id="img-2" class="image" src="../assets/sport/net.jpg"/>
-        <p id="txt-2" class="text"> > passing behaviour <br/> > hypernetworks </p>
+        <div id="img-2" class="image"><img src="../assets/sport/net.jpg"/></div>
+        <div id="txt-2" class="text"> > passing behaviour <br/> > hypernetworks </div>
     </div>
     <div id="pnl-3" class="slide">
-        <img id="img-3" class="image" src="../assets/sport/waves.jpg"/>
-        <p id="txt-3" class="text"> > team movement dynamics <br/> > flow fields </p>
+        <div id="img-3" class="image"><img src="../assets/sport/waves.jpg"/></div>
+        <div id="txt-3" class="text"> > team movement dynamics <br/> > flow fields </div>
     </div>
 </div>
 <div id="introfade">
