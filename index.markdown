@@ -6,41 +6,36 @@ layout: home
 img_profile: /assets/zaf_circle.png
 ---
 <style>
+    .text-head {
+        text-align: left;
+        background-color: white;
+        font-size: 0.75rem;
+        font-weight: 600;
+    }
+    .vertical-line {
+        height: 75%;
+        width: 2px;
+        background-color: #ababab;
+        margin: 24px;
+    }
     #pnl-head {
         display: flex;
+        flex-direction: row;
         justify-content: center;
         align-items: center;
         height: 25vh;
         padding: 2.5vh;
-        background-image: linear-gradient(180deg, #6e829a, #95a6bf);
-        border-radius: 3vh 3vh 0 0;
+        border-radius: 16px 16px 0 0;
     }
     #profilepic {
-        height: 100%;
-        box-shadow: 0px 5px 0.5vh #8c939c;
-        border-radius: 100%
-    }
-    #introtext {
-        padding: 2.5vh;
-        background-image: linear-gradient(180deg, #6e829a, #6e829a);
-        color: #eeeeee;
-        font-size: 1.5vh;
-        font-weight: 600;
-        text-align: center;
-        border-radius: 0 0 1vh 1vh;
-    }
-    #introfade {
-        height: 1.5vh;
-        background-image: linear-gradient(180deg, #ffffff, #ffffff);
+        height: 75%;
+        border-radius: 16px;
     }
 </style>
 <div id="pnl-head">
-    <img id="profilepic" src="assets/zaf_ball.png" alt="drawing"/>
-</div>
-<div id="introtext">
-    I apply mathematics for modeling, problem-solving, and software development across domains in: <br/> sport, science, art, & education.
-</div>
-<div id="introfade">
+    <img id="profilepic" src="assets/zaf_ball.jpg" alt="drawing"/>
+    <div class="vertical-line"></div>
+    <p class="text-head">I apply mathematics for modeling, problem-solving, and software development across domains in: sport, science, & education.</p>
 </div>
 
 # EDUCATION
@@ -50,7 +45,7 @@ Currently I'm pursuing a Masters in Kinesiology (Neuroscience Specialization) at
 
 | Role                | Organization | Description         |
 |:--------------------|:-----|:---------------|
-| Applied Mathematician   | Sport Performance Analytics Inc.<br/> > [Website](https://www.sportperformanceanalytics.ca/)   | > quantify movement dynamics<br/> > analyze passing behaviour<br/> > optimize team selection |
+| Applied Mathematician   | Sport Performance Analytics Inc.<br/> > [Website](https://www.sportperformanceanalytics.ca/)   | > quantify movement dynamics<br/> > analyze passing behaviour<br/> > optimize team selection<br/> > model fatigue in footballers |
 | Analytics Director | Gait & Mobility Network <br/> > [Website](https://www.physicaltherapy.utoronto.ca/biomedical-informatics-analytics-and-technology-lab) | > build gait analysis tools <br/> > develop gait event algorithms <br/> > integrate multi-modal datasets |
 | Director of Innovation | Athletic Barcodes <br/> > Website (Coming Soon)  | > apply computer vision to sport <br/> > sport science consultation |
 | Lead Data Analyst | Baseball Injury Prevention Initiative <br/> > [Website](https://www.baseballipi.org/)  | > research baseball injury <br/> > create educational content |
