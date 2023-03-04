@@ -9,7 +9,7 @@ img_profile: /assets/zaf_circle.png
     .text-head {
         text-align: left;
         background-color: white;
-        font-size: 0.75rem;
+        font-size: 1rem;
         font-weight: 600;
     }
     .vertical-line {
@@ -31,11 +31,16 @@ img_profile: /assets/zaf_circle.png
         height: 75%;
         border-radius: 16px;
     }
+    .txt-sub {
+        color: #6e829a;
+        font-weight: 500;
+    }
 </style>
 <div id="pnl-head">
     <img id="profilepic" src="assets/zaf_ball.jpg" alt="drawing"/>
     <div class="vertical-line"></div>
-    <p class="text-head">I apply mathematics for modeling, problem-solving, and software development across domains in: sport, science, & education.</p>
+    <p class="text-head">I apply mathematics for modeling, problem-solving, and software development across domains in:
+    <br> <span class='txt-sub'>sport, science, & education. </span> </p>
 </div>
 
 # EDUCATION
