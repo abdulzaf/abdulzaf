@@ -43,10 +43,10 @@ img_profile: /assets/zaf_circle.png
     <br> <span class='txt-sub'>sport, science, & education. </span> </p>
 </div>
 
-# EDUCATION
+# Education
 Currently I'm pursuing a Masters in Kinesiology (Neuroscience Specialization) at the University of Waterloo, having completed an Hons. BSc. Double Major in Mathematics and Physics at the University of Toronto.
 
-# CURRENT WORK
+# Current Work
 
 | Role                | Organization | Description         |
 |:--------------------|:-----|:---------------|
