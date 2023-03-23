@@ -67,7 +67,7 @@ permalink: /sport/
 
 | Date                | Title | Organization         |
 |:--------------------|:-----|:---------------|
-| January 2023   | Intensity demands and peak performance of elite soccer referees during match play | Journal of Science and Medicine in Sport, https://doi.org/10.1016/j.jsams.2022.10.006 |
+| January 2023   | Intensity demands and peak performance of elite soccer referees during match play<br/> > [Article](https://doi.org/10.1016/j.jsams.2022.10.006) | Journal of Science and Medicine in Sport |
 | December 2022   | A baseball injury prevention initiative to combat health risks associated with early sport specialization   | Strength and Conditioning Journal. Submitted : 09-06-2022 (# SCJ-D-22-00116) |
 | June 2022   | Characterizing eye movement patterns in 1v1 situations in elite futsal | World Congress on Science & Soccer 2022 |
 | January 2022   | Tressant 'le beau jeu'   | Sport Scientist Canada, Own the Podium, Canada |
