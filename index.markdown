@@ -51,6 +51,6 @@ Currently I'm pursuing a Masters in Kinesiology (Neuroscience Specialization) at
 | Role                | Organization | Description         |
 |:--------------------|:-----|:---------------|
 | Applied Mathematician   | Sport Performance Analytics Inc.<br/> > [Website](https://www.sportperformanceanalytics.ca/)   | > quantify movement dynamics<br/> > analyze passing behaviour<br/> > optimize team selection<br/> > model fatigue in footballers |
-| Analytics Director | Gait & Mobility Network <br/> > [Website](https://www.physicaltherapy.utoronto.ca/biomedical-informatics-analytics-and-technology-lab) | > build gait analysis tools <br/> > develop gait event algorithms <br/> > integrate multi-modal datasets |
+| Analytics Director & <br/> Data Coordinator | Gait & Mobility Network <br/> > [Website](https://www.physicaltherapy.utoronto.ca/biomedical-informatics-analytics-and-technology-lab) | > build gait analysis tools <br/> > develop gait event algorithms <br/> > integrate multi-modal datasets |
 | Director of Innovation | Athletic Barcodes <br/> > Website (Coming Soon)  | > apply computer vision to sport <br/> > sport science consultation |
 | Lead Data Analyst | Baseball Injury Prevention Initiative <br/> > [Website](https://www.baseballipi.org/)  | > research baseball injury <br/> > create educational content |
