@@ -40,7 +40,7 @@ img_profile: /assets/zaf_circle.png
     <img id="profilepic" src="assets/zaf_ball.jpg" alt="drawing"/>
     <div class="vertical-line"></div>
     <p class="text-head">I apply mathematics for modeling, problem-solving, and software development across domains in:
-    <br> <span class='txt-sub'>sport, science, & education. </span> </p>
+    <br> <span class='txt-sub'>sport, bio-mechanics, & neuro-science. </span> </p>
 </div>
 
 # Education
