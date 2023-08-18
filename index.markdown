@@ -73,7 +73,6 @@ img_profile: /assets/zaf_circle.png
     <span class='txt-sub'>neuro-science</span>.
 </p>
 
-***
 
 <h1 class="heading">Education</h1>
 
@@ -84,7 +83,6 @@ img_profile: /assets/zaf_circle.png
 | 2021 | Hon BSc. | Double Major: Math & Physics, University of Toronto |
 | 2017 | Diploma | Fitness & Health Promotion (80.0 Credit Hours), Centennial College |
 
-***
 
 <h1 class="heading">Current Work</h1>
 
@@ -94,7 +92,6 @@ img_profile: /assets/zaf_circle.png
 | Analytics Director & <br/> Data Coordinator | Gait & Mobility Network <br/> > [Website](https://www.physicaltherapy.utoronto.ca/biomedical-informatics-analytics-and-technology-lab) | > build gait analysis tools <br/> > develop gait event algorithms <br/> > integrate multi-modal datasets |
 | Lead Data Analyst | Baseball Injury Prevention Initiative <br/> > [Website](https://www.baseballipi.org/)  | > research baseball injury <br/> > create educational content |
 
-***
 
 <h1 class="heading">Skills</h1>
 
