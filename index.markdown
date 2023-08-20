@@ -78,8 +78,7 @@ img_profile: /assets/zaf_circle.png
 
 | Year | Level of Study | Institution |
 |:-- |:-- |:-- |
-| 2027 | PhD. | Computational Neuroscience, University of Waterloo |
-| 2023 | MSc. | Vision Neuroscience, University of Waterloo |
+| 2023 | MSc. | Neuroscience (*Specialization: Vision*), University of Waterloo|
 | 2021 | Hon BSc. | Double Major: Math & Physics, University of Toronto |
 | 2017 | Diploma | Fitness & Health Promotion (80.0 Credit Hours), Centennial College |
 
@@ -88,17 +87,18 @@ img_profile: /assets/zaf_circle.png
 
 | Role                | Organization | Description         |
 |:--------------------|:-----|:---------------|
-| Applied Mathematician   | Sport Performance Analytics Inc.<br/> > [Website](https://www.sportperformanceanalytics.ca/)   | > quantify movement dynamics<br/> > analyze passing behaviour<br/> > optimize team selection<br/> > model fatigue in footballers |
-| Analytics Director & <br/> Data Coordinator | Gait & Mobility Network <br/> > [Website](https://www.physicaltherapy.utoronto.ca/biomedical-informatics-analytics-and-technology-lab) | > build gait analysis tools <br/> > develop gait event algorithms <br/> > integrate multi-modal datasets |
-| Lead Data Analyst | Baseball Injury Prevention Initiative <br/> > [Website](https://www.baseballipi.org/)  | > research baseball injury <br/> > create educational content |
+| Applied Mathematician   | Sport Performance Analytics Inc.<br/> > [Website](https://www.sportperformanceanalytics.ca/)   | > quantify movement dynamics<br/> > analyze passing behaviour<br/> > model fatigue in footballers<br/> > build sport analytics apps|
+| Analytics Director & <br/> Data Coordinator | Gait & Mobility Network <br/> > [Website](https://www.physicaltherapy.utoronto.ca/biomedical-informatics-analytics-and-technology-lab) | > build gait analysis software <br/> > develop gait event algorithms <br/> > integrate multi-modal datasets |
+| Lead Data Analyst | Baseball Injury Prevention Initiative <br/> > [Website](https://www.baseballipi.org/)  | > research baseball mechanics<br/> > create educational content |
 
 
 <h1 class="heading">Skills</h1>
 
-| Spoken Languages  | Programming Languages     | Frameworks    | Tools     |
-|:--                |:--                        |:--            |:--        |
-| English           | Python                    | React         | VSCode    |
-| French            | MATLAB                    | Flask         | MATLAB    |
-| Arabic            | Javascript                | Tensorflow    | PyCharm    |
-| Urdu              | Kotlin                    | PyTorch       | Simulink    |
-| Spanish           |                           | Keras         | Nengo.ai    |
+| Spoken <br/> Languages  | Programming <br/> Languages     | Frameworks    | Tools     | Database <br/> Tools    |
+|:--                |:--                        |:--            |:--        |:--                |
+| English           | Python                    | React         | OpenCV    | SQL   |
+| French            | MATLAB                    | Flask         | Firebase  | MongoDB  |
+| Arabic            | Javascript                | Tensorflow    | Simulink  |   |
+| Urdu              | Kotlin                    | PyTorch       | Nengo.ai  |   |
+| Spanish           | Java                      | Flutter       | Git       |   |
+|                   |                           | NodeJS        |           |   |
