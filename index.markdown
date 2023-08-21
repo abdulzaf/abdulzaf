@@ -73,8 +73,11 @@ img_profile: /assets/zaf_circle.png
     <span class='txt-sub'>neuro-science</span>.
 </p>
 
+<br/>
+<hr>
+<br/>
 
-<h1 class="heading">Education</h1>
+<h2 class="heading">Education</h2>
 
 | Year | Level of Study | Institution |
 |:-- |:-- |:-- |
@@ -83,7 +86,7 @@ img_profile: /assets/zaf_circle.png
 | 2017 | Diploma | Fitness & Health Promotion (80.0 Credit Hours), Centennial College |
 
 
-<h1 class="heading">Current Work</h1>
+<h2 class="heading">Current Work</h2>
 
 | Role                | Organization | Description         |
 |:--------------------|:-----|:---------------|
@@ -92,13 +95,12 @@ img_profile: /assets/zaf_circle.png
 | Lead Data Analyst | Baseball Injury Prevention Initiative <br/> > [Website](https://www.baseballipi.org/)  | > research baseball mechanics<br/> > create educational content |
 
 
-<h1 class="heading">Skills</h1>
+<h2 class="heading">Skills</h2>
 
-| Spoken <br/> Languages  | Programming <br/> Languages     | Frameworks    | Tools     | Database <br/> Tools    |
-|:--                |:--                        |:--            |:--        |:--                |
-| English           | Python                    | React         | OpenCV    | SQL   |
-| French            | MATLAB                    | Flask         | Firebase  | MongoDB  |
-| Arabic            | Javascript                | Tensorflow    | Simulink  |   |
-| Urdu              | Kotlin                    | PyTorch       | Nengo.ai  |   |
-| Spanish           | Java                      | Flutter       | Git       |   |
-|                   |                           | NodeJS        |           |   |
+| Spoken <br/> Languages  | Programming <br/> Languages     | Frameworks    | Tools     |
+|:--                |:--                        |:--            |:--        |
+| English           | Python                    | React         | OpenCV    |
+| French            | MATLAB                    | Flask         | Firebase  |
+| Arabic            | Javascript                | Tensorflow    | Simulink  |
+| Urdu              | Kotlin                    | PyTorch       | Git  |
+| Spanish           | Java                      |        |        |

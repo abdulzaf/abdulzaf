@@ -11,7 +11,7 @@ permalink: /research/
     }
 </style>
 
-<h1 class="heading">Publications</h1>
+<h1 class="heading">Journal Papers</h1>
 
 ##### ORCID: [0000-0002-7872-7715](https://orcid.org/0000-0002-7872-7715)
 
@@ -22,7 +22,7 @@ permalink: /research/
 | 2022  | Intensity demands and peak performance of elite soccer referees during match play<br/> > [Article](https://doi.org/10.1016/j.jsams.2022.10.006) | Journal of Science and Medicine in Sport |
 | 2022  | Gaze behaviour: A window into distinct cognitive processes revealed by the Tower of London test<br/> > [Article](https://doi.org/10.1016/j.visres.2022.108072) | Vision Research |
 
-<h1 class="heading">Presentations</h1>
+<h1 class="heading">Conference & Seminar Presentations</h1>
 
 | Year                | Title | Organization         |
 |:--------------------|:-----|:---------------|
