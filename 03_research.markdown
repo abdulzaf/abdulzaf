@@ -17,6 +17,7 @@ permalink: /research/
 
 | Year                | Title | Journal         |
 |:--------------------|:-----|:---------------|
+| 2023  | Investigation of Camera-Free Eye-Tracking Glasses Compared to a Video-Based System<br/> > [Article](https://doi.org/10.3390/s23187753) | Sensors |
 | 2023  | A Baseball Injury and Performance Initiative to Combat Health Risks Associated With Early Sport Specialization<br/> > [Article](https://doi.org/10.1519/ssc.0000000000000783) | Strength & Conditioning Journal |
 | 2023  | The effects of task difficulty on gaze behaviour during landing with visual flight rules in low-time pilots<br/> > [Article](https://doi.org/10.16910/jemr.16.1.3) | Journal of Eye Movement Research |
 | 2022  | Intensity demands and peak performance of elite soccer referees during match play<br/> > [Article](https://doi.org/10.1016/j.jsams.2022.10.006) | Journal of Science and Medicine in Sport |
