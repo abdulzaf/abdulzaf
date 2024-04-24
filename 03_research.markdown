@@ -17,6 +17,9 @@ permalink: /research/
 
 | Year                | Title | Journal         |
 |:--------------------|:-----|:---------------|
+| 2024  | Characterization of Running Intensity in Canadian Football Based on Tactical Position<br/> > [Article](https://doi.org/10.3390/s24082644) | Sensors |
+| 2024  | Does fiducial marker visibility impact task performance and information processing in novice and low-time pilots?<br/> > [Article](https://doi.org/10.1016/j.cag.2024.103889) | Computers & Graphics |
+| 2024  | Characterizing the most demanding passages of kinematic and mechanical activity in elite football: a multifactorial approach<br/> > [Article](https://doi.org/10.5114/biolsport.2024.134756) | Biology of Sport |
 | 2023  | Investigation of Camera-Free Eye-Tracking Glasses Compared to a Video-Based System<br/> > [Article](https://doi.org/10.3390/s23187753) | Sensors |
 | 2023  | A Baseball Injury and Performance Initiative to Combat Health Risks Associated With Early Sport Specialization<br/> > [Article](https://doi.org/10.1519/ssc.0000000000000783) | Strength & Conditioning Journal |
 | 2023  | The effects of task difficulty on gaze behaviour during landing with visual flight rules in low-time pilots<br/> > [Article](https://doi.org/10.16910/jemr.16.1.3) | Journal of Eye Movement Research |
