@@ -95,14 +95,3 @@ img_profile: /assets/zaf_circle.png
 | Data Analytics Director & <br/> Researcher | Gait & Mobility Network <br/> > [Website](https://www.physicaltherapy.utoronto.ca/biomedical-informatics-analytics-and-technology-lab) | > build gait analysis software <br/> > develop gait event algorithms <br/> > develop lower-limb motor control metrics for clinical application|
 | Data Scientist & <br/> Researcher   | CIUSSS-NIM Research Center<br/> > [Website](https://rechercheciusssnim.ca/axes/traumatologie-et-soins-aigus-2/)   | > model concussion risk & severity<br/> > integrate heart rate, GPS, IMU, & MRI data for predictive modeling|
 | Lead Data Analyst | Baseball Injury Prevention Initiative <br/> > [Website](https://www.baseballipi.org/)  | > research baseball mechanics<br/> > create educational content |
-
-
-<h2 class="heading">Skills</h2>
-
-| Programming <br/> Languages     | Frameworks    | Tools     |
-|:--                        |:--            |:--        |
-| Python                    | React         | OpenCV    |
-| MATLAB                    | Flask         | Firebase  |
-| Javascript                | Tensorflow    | Simulink  |
-| Kotlin                    | PyTorch       | Git  |
-| Java                      |        |        |
