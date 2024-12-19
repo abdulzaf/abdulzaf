@@ -99,10 +99,10 @@ img_profile: /assets/zaf_circle.png
 
 <h2 class="heading">Skills</h2>
 
-| Spoken <br/> Languages  | Programming <br/> Languages     | Frameworks    | Tools     |
-|:--                |:--                        |:--            |:--        |
-| English           | Python                    | React         | OpenCV    |
-| French            | MATLAB                    | Flask         | Firebase  |
-| Arabic            | Javascript                | Tensorflow    | Simulink  |
-| Urdu              | Kotlin                    | PyTorch       | Git  |
-| Spanish           | Java                      |        |        |
+| Programming <br/> Languages     | Frameworks    | Tools     |
+|:--                        |:--            |:--        |
+| Python                    | React         | OpenCV    |
+| MATLAB                    | Flask         | Firebase  |
+| Javascript                | Tensorflow    | Simulink  |
+| Kotlin                    | PyTorch       | Git  |
+| Java                      |        |        |
