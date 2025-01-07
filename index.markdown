@@ -81,7 +81,6 @@ img_profile: /assets/zaf_circle.png
 
 | Year | Level of Study | Institution |
 |:-- |:-- |:-- |
-| In Progress | PhD. <br/> *+ GDip.* | Neuroscience (*Computational*), University of Waterloo <br/>*Theoretical Neuroscience, Centre for Theoretical Neuroscience*|
 | 2023 | MSc. | Neuroscience (*Vision*), University of Waterloo|
 | 2021 | Hon BSc. | Double Major: Math & Physics, University of Toronto |
 
