@@ -89,7 +89,6 @@ img_profile: /assets/zaf_circle.png
 
 | Role                | Organization | Description         |
 |:--------------------|:-----|:---------------|
-| Applied Mathematician<br/> & Sport Scientist   | Sport Performance Analytics Inc.<br/> > [Website](https://www.sportperformanceanalytics.ca/)   | > quantify movement dynamics<br/> > analyze passing behaviour<br/> > model fatigue in footballers<br/> > build sport analytics apps|
+| Machine Learning Researcher   | CIUSSS-NIM Research Center<br/> > [Website](https://rechercheciusssnim.ca/axes/traumatologie-et-soins-aigus-2/)   | > model concussion risk & severity<br/> > integrate heart rate, GPS, IMU, & MRI data for predictive modeling|
 | Data Analytics Director & <br/> Researcher | Gait & Mobility Network <br/> > [Website](https://www.physicaltherapy.utoronto.ca/biomedical-informatics-analytics-and-technology-lab) | > build gait analysis software <br/> > develop gait event algorithms <br/> > develop lower-limb motor control metrics for clinical application|
-| Data Scientist & <br/> Researcher   | CIUSSS-NIM Research Center<br/> > [Website](https://rechercheciusssnim.ca/axes/traumatologie-et-soins-aigus-2/)   | > model concussion risk & severity<br/> > integrate heart rate, GPS, IMU, & MRI data for predictive modeling|
 | Lead Football Data Analyst | Sanam Analytics <br/> > [Website](https://sanamanalytics.com/football-analytics/) | > develop team and player performance metrics<br/> > create a national player database for scouting within the Saudi Football Federation|
