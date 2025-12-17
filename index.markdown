@@ -92,3 +92,4 @@ img_profile: /assets/zaf_circle.png
 |:--------------------|:-----|:---------------|
 | Machine Learning Researcher   | CIUSSS-NIM Research Center<br/> > [Website](https://rechercheciusssnim.ca/axes/traumatologie-et-soins-aigus-2/)   | > model concussion risk & severity<br/> > integrate heart rate, GPS, IMU, & MRI data for predictive modeling|
 | Data Analytics Coordinator | Gait & Mobility Network <br/> > [Website](https://www.physicaltherapy.utoronto.ca/biomedical-informatics-analytics-and-technology-lab) | > build gait analysis software <br/> > develop gait event algorithms <br/> > develop lower-limb motor control metrics for clinical application|
+| Sport Scientist   | Sport Performance Analytics Inc.<br/> > [Website](https://www.sportperformanceanalytics.ca/)   | > analyze team tactical behaviour in football <br/> > model fatigue in football/futsal athletes <br/> > build sport analytics apps |
