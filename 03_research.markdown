@@ -17,6 +17,11 @@ permalink: /research/
 
 | Year                | Title | Journal         |
 |:--------------------|:-----|:---------------|
+| 2025  | Game-aware prediction and interpretation of heart rate dynamics in contact sports using contextually tuned linear time-invariant models<br/> > [Article](https://doi.org/10.21203/rs.3.rs-7247668/v1) | BMC Digital Health (under review) |
+| 2025  | Automated play event detection from sparse GPS American football data using recurrent neural networks<br/> > [Article](https://doi.org/10.21203/rs.3.rs-7236955/v1) | ResearchSquare (preprint) |
+| 2025  | Relative intensities and compositions of multifactorial peak kinematic and mechanical demands in elite youth soccer<br/> > [Article](https://doi.org/10.3389/fspor.2025.1616921) | Frontiers in Sports and Active Living |
+| 2025  | Peak Kinematic and Mechanical Demands According to Playing Positions in Professional Male Soccer: Composition Analysis and Characteristics of Locomotor Activities<br/> > [Article](https://doi.org/10.1080/02701367.2024.2441126) | Research Quarterly for Exercise and Sport |
+| 2024  | Heart Rate Dynamics and Quantifying Physical Fatigue in Canadian Football<br/> > [Article](https://doi.org/10.3390/app14125340) | Applied Sciences |
 | 2024  | Characterization of Running Intensity in Canadian Football Based on Tactical Position<br/> > [Article](https://doi.org/10.3390/s24082644) | Sensors |
 | 2024  | Does fiducial marker visibility impact task performance and information processing in novice and low-time pilots?<br/> > [Article](https://doi.org/10.1016/j.cag.2024.103889) | Computers & Graphics |
 | 2024  | Characterizing the most demanding passages of kinematic and mechanical activity in elite football: a multifactorial approach<br/> > [Article](https://doi.org/10.5114/biolsport.2024.134756) | Biology of Sport |
