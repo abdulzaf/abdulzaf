@@ -79,7 +79,7 @@ Open-source software and clinically meaningful movement metrics.
 ::: {.g-col-12 .g-col-md-5}
 ### Education
 
-**PhD (c)** — Bio-medical Sciences  
+**PhD (in-progress)** — Bio-medical Sciences  
 *Université de Montréal*
 
 **MSc** — Neuroscience  
