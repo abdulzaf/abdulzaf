@@ -1,0 +1,160 @@
+---
+title: "Projects"
+page-layout: article
+---
+
+## Computational Neuroscience
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .project-card}
+![DTI impacts](assets/neuro/dti_impacts.gif)
+**Quantitative Head-Injury Mapping**
+Using geometry-aware manifold learning to quantify the latent relationship between 3D head-impact exposure and white matter microstructural changes using joint multidimensional scaling and Wasserstein metrics
+:::
+
+::: {.g-col-12 .g-col-md-6 .project-card}
+![SNN](assets/neuro/snn.mp4)
+**Neuromorphic Motion Tracking**
+Implementing a spiking neural network (LIF) in Nengo to emulate the visual processing pathway, utilizing Kalman filters for optimal sensorimotor integration during a multiple object tracking task.
+:::
+
+:::
+
+## Wearable sensor analytics
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .project-card}
+![Gait analysis](assets/sport/gait.gif)
+**Bio-mechanical Signal Extraction**
+Decoding multi-directional kinematics and gait phase dynamics from torso-worn inertial sensors (IMU) in game.
+:::
+
+::: {.g-col-12 .g-col-md-6 .project-card}
+![HR model](assets/sport/hr_lti.gif)
+**Hybrid Physiological Modeling**
+Integrating Gradient Boosting (XGB) with Linear Time-Invariant (LTI) systems to model heart rate dynamics during high-intensity exertion.
+:::
+
+:::
+
+## Mathematical modeling in sport
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-3 .project-card}
+![Team movement patterns & algebraic braids](assets/sport/braid.gif)
+**Topological Dynamics**
+Quantifying team coordination and tactical behavior through the lens of algebraic braid theory.
+:::
+
+::: {.g-col-12 .g-col-md-3 .project-card}
+![Ball passing strategy & dynamic network analysis](assets/sport/hypernet.gif)
+**Hyper-network Analysis**
+Modeling multi-agent passing strategies using higher-order network science to identify hidden tactical structures.
+:::
+
+::: {.g-col-12 .g-col-md-3 .project-card}
+![Match tempo, movement intensity, & team flow](assets/sport/divwave.gif)
+**Vector Fields**
+Analyzing team "tempo" and spatial synchronization using divergence waves and spatiotemporal intensity metrics.
+:::
+
+::: {.g-col-12 .g-col-md-3 .project-card}
+![Sprint mechanics & limb coordination manifolds](assets/bio-mechanics/sprint-class.gif)
+**Coordination Manifolds**
+Extracting low-dimensional movement manifolds from high-dimensional kinematic data to classify elite sprint mechanics.
+:::
+
+:::
+
+::: {.callout-note collapse="true" appearance="minimal"}
+## View Project Archives
+
+::: {.grid}
+
+
+::: {.g-col-12 .g-col-md-4 .project-card}
+![Repeated sprint fatigue & running bio-mechanics](assets/bio-mechanics/sprints.gif)
+**Fatigue Dynamics**
+Repeated sprint fatigue & running biomechanics.
+:::
+
+
+::: {.g-col-12 .g-col-md-4 .project-card}
+![Dynamic coupling of pupil diameter & gait](assets/neuro/pupil-gait.gif)
+**Pupil-Gait Coupling**
+Dynamic coupling of pupil diameter & gait.
+:::
+
+
+::: {.g-col-12 .g-col-md-4 .project-card}
+![Dynamic coupling of pupil diameter & gait](/assets/sport/eyes.jpg)
+**Futsal Eye-tracking**
+Gaze behaviour in futsal & entropy.
+:::
+
+::: {.g-col-12 .g-col-md-4 .project-card}
+![Modeling attention maps during motion tracking](assets/neuro/neuro-vis.gif)
+**Attention Mapping**
+Modeling attention maps during motion tracking.
+:::
+
+::: {.g-col-12 .g-col-md-4 .project-card}
+![F-MRI scans during math problem solving](assets/neuro/fmri-math.gif)
+**Math Cognition**
+F-MRI scans during math problem solving.
+:::
+
+::: {.g-col-12 .g-col-md-4 .project-card}
+![Adidas SmartBall & Kinect integration](assets/tech/Kick.gif)
+**SmartBall Integration**
+Synchronizing Adidas SmartBall sensor data with Kinect motion capture.
+:::
+
+::: {.g-col-12 .g-col-md-4 .project-card}
+![Wireless EMG & Kinect integration](assets/tech/kinect_emg.gif)
+**EMG + MoCap**
+Real-time integration of wireless EMG signals with 3D skeletal tracking.
+:::
+
+::: {.g-col-12 .g-col-md-4 .project-card}
+![Multi-Kinect system for gait analysis](assets/tech/Move1.gif)
+**Multi-Kinect Array**
+A custom multi-sensor system for wide-area clinical gait analysis.
+:::
+
+
+::: {.g-col-12 .g-col-md-4 .project-card}
+![Markerless Body Scan](assets/tech/Scan.gif)
+**Markerless Scan**
+Markerless body volumetric scan & anthropometrics.
+:::
+
+::: {.g-col-12 .g-col-md-4 .project-card}
+![Sprint Bot](assets/tech/Bot1.gif)
+**Sprint Bot**
+Autonomous bot for on-field sprint tracking and analysis.
+:::
+
+::: {.g-col-12 .g-col-md-4 .project-card}
+![Tilings from geometric constructions](assets/comp-art/tile2.gif)
+**Geometric Tilings**
+Explorations in algorithmic pattern generation and symmetry.
+:::
+
+::: {.g-col-12 .g-col-md-4 .project-card}
+![Fractals, aperiodicity, & Penrose tilings](assets/comp-art/penrose1.gif)
+**Aperiodic Fractals**
+Generating Penrose tilings and non-repeating geometric structures.
+:::
+
+::: {.g-col-12 .g-col-md-4 .project-card}
+![Shape deformations & Escher tilings](assets/comp-art/escher.gif)
+**Escher Deformations**
+Recursive shape morphing based on M.C. Escher's tessellations.
+:::
+
+:::
+
+:::

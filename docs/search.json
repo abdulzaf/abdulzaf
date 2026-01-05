@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Education & Scholarships\n\nPhD (in progress), Biomedical Sciences, Université de Montréal (2025–2029)\nThesis: Modeling the neurological sequelae of head impacts during contact sports\nMSc, Neuroscience (Vision), University of Waterloo (2023)\nThesis: Characterizing & modeling visual attention during motion tracking in high-performance athletes\nAwards: Lyle S. Hallman Graduate Research Scholarship, QEII-GSST\nHonours BSc, Mathematics & Physics, University of Toronto (2021)\nThesis: Gait distinction via hip-knee coordination: Applications of dynamical systems theory & computational topology\nDiploma, Fitness & Health Promotion, Centennial College (2017)\n\n\n\n\nCurrent Appointments\n\nPhD Researcher — CIUSSS–NIM Research Center\nConcussion risk and severity modeling using HR, GPS, IMU, and MRI data\nData Analytics Coordinator — Gait & Mobility Network\nClinical-grade gait analysis software and motor control metrics development\n\n\n\n\nSelected Prior Experience\n\nLead Data Scientist / Sport Scientist — Sport Performance Analytics Inc. (2017–2025)\nModeling athlete fatigue and tactical behavior; introduced flow field, hyper-network, and topological braid models to quantify team and player dynamics; collaborated with national federations\nGraduate Researcher — University of Waterloo (2021–2024)\nModeled functional connectivity and cognitive/motor performance using graph theory, information theory, and control systems; integrated eye-tracking & motion capture technologies\nResearch Assistant — University of Toronto (2018–2021)\nGait event detection, data fusion, and mobile diagnostics in clinical biomechanics; modeling teaching discourse & 4D fMRI analysis in numerical cognition\n\n\n\n\nResearch Publications (selected)\n\nZafar, A., Guay, S., et al. Game-aware prediction and interpretation of heart rate dynamics in contact sports using contextually tuned linear time-invariant models (2025, In-review: BMC Digital Health)\n\nZafar, A., Martens, G., et al. Effects of head impact exposure on in-game heart rate dynamics in Canadian varsity football athletes (2025, In-review: JSAMS)\n\nZafar, A., Guay, S., et al. Automated play event detection from sparse GPS American football data using recurrent neural networks (2025, Pre-print: Research Square)\n\nYousefian, F., Zafar, A., et al. Peak Kinematic and Mechanical Demands According to Playing Positions in Professional Male Soccer (2025, Research Quarterly for Exercise and Sport)\n\nZafar, A., Guay, S., et al. Heart Rate Dynamics and Quantifying Physical Fatigue in Canadian Football (2024, Applied Sciences)\n\n(Full list available on Google Scholar)\n\n\n\nProjects & Software (selected)\n\nTRACE (in-development) — Python, multi-modal Time-Series Representation, Annotation, and Computation for Experiments: A modular framework for managing, annotating, and analyzing multimodal time series data in behavioral experiments.\nTrakScribe (in-development) — Python, GPS Open-source toolkit for analyzing and annotating sport GPS data.\nAthletic Barcodes & BreakAway Apps — Computer vision and performance analytics platforms\nMobile/web apps for talent identification, coaching, and athlete monitoring.\n\n\n\n\nConference & Seminar Presentations (selected)\n\nCharacterizing eye movement patterns in 1v1 situations in elite futsal, World Congress on Science and Soccer (2022)\n\nCharacterizing team movement patterns in elite football, World Congress on Science and Soccer (2022)\n\nHyper-Networks for Team Selection in Professional Football, Canadian Undergraduate Mathematics Conference (2019)\n\nStructuring Patterns in Team Movement Using Vector Fields, MathSport International (2019)\n\n(Full list available on request)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Quantitative Head-Injury Mapping Using geometry-aware manifold learning to quantify the latent relationship between 3D head-impact exposure and white matter microstructural changes using joint multidimensional scaling and Wasserstein metrics\n\n\nSNN Neuromorphic Motion Tracking Implementing a spiking neural network (LIF) in Nengo to emulate the visual processing pathway, utilizing Kalman filters for optimal sensorimotor integration during a multiple object tracking task."
+  },
+  {
+    "objectID": "projects.html#computational-neuroscience",
+    "href": "projects.html#computational-neuroscience",
+    "title": "Projects",
+    "section": "",
+    "text": "Quantitative Head-Injury Mapping Using geometry-aware manifold learning to quantify the latent relationship between 3D head-impact exposure and white matter microstructural changes using joint multidimensional scaling and Wasserstein metrics\n\n\nSNN Neuromorphic Motion Tracking Implementing a spiking neural network (LIF) in Nengo to emulate the visual processing pathway, utilizing Kalman filters for optimal sensorimotor integration during a multiple object tracking task."
+  },
+  {
+    "objectID": "projects.html#wearable-sensor-analytics",
+    "href": "projects.html#wearable-sensor-analytics",
+    "title": "Projects",
+    "section": "Wearable sensor analytics",
+    "text": "Wearable sensor analytics\n\n\n Bio-mechanical Signal Extraction Decoding multi-directional kinematics and gait phase dynamics from torso-worn inertial sensors (IMU) in game.\n\n\n Hybrid Physiological Modeling Integrating Gradient Boosting (XGB) with Linear Time-Invariant (LTI) systems to model heart rate dynamics during high-intensity exertion."
+  },
+  {
+    "objectID": "projects.html#mathematical-modeling-in-sport",
+    "href": "projects.html#mathematical-modeling-in-sport",
+    "title": "Projects",
+    "section": "Mathematical modeling in sport",
+    "text": "Mathematical modeling in sport\n\n\n Topological Dynamics Quantifying team coordination and tactical behavior through the lens of algebraic braid theory.\n\n\n Hyper-network Analysis Modeling multi-agent passing strategies using higher-order network science to identify hidden tactical structures.\n\n\n Vector Fields Analyzing team “tempo” and spatial synchronization using divergence waves and spatiotemporal intensity metrics.\n\n\n Coordination Manifolds Extracting low-dimensional movement manifolds from high-dimensional kinematic data to classify elite sprint mechanics.\n\n\n\n\n\n\n\n\nNoteView Project Archives\n\n\n\n\n\n\n\n Fatigue Dynamics Repeated sprint fatigue & running biomechanics.\n\n\n Pupil-Gait Coupling Dynamic coupling of pupil diameter & gait.\n\n\n Futsal Eye-tracking Gaze behaviour in futsal & entropy.\n\n\n Attention Mapping Modeling attention maps during motion tracking.\n\n\n Math Cognition F-MRI scans during math problem solving.\n\n\n SmartBall Integration Synchronizing Adidas SmartBall sensor data with Kinect motion capture.\n\n\n EMG + MoCap Real-time integration of wireless EMG signals with 3D skeletal tracking.\n\n\n Multi-Kinect Array A custom multi-sensor system for wide-area clinical gait analysis.\n\n\n Markerless Scan Markerless body volumetric scan & anthropometrics.\n\n\n Sprint Bot Autonomous bot for on-field sprint tracking and analysis.\n\n\n Geometric Tilings Explorations in algorithmic pattern generation and symmetry.\n\n\n Aperiodic Fractals Generating Penrose tilings and non-repeating geometric structures.\n\n\n Escher Deformations Recursive shape morphing based on M.C. Escher’s tessellations."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "ORCID\n0000-0002-7872-7715\n\n\n\nJournal Articles\n\n\n\n\n\n\nNote2025\n\n\n\n\n\n\n\n\nYear\nTitle\nJournal / Status\n\n\n\n\n2025\nGame-aware prediction and interpretation of heart rate dynamics in contact sports using contextually tuned linear time-invariant models  View Article\nBMC Digital Health In-Review\n\n\n2025\nAutomated play event detection from sparse GPS American football data using recurrent neural networks  View Article\nResearchSquare Preprint\n\n\n2025\nRelative intensities and compositions of multifactorial peak kinematic and mechanical demands in elite youth soccer  View Article\nFrontiers in Sports and Active Living Published\n\n\n2025\nPeak Kinematic and Mechanical Demands According to Playing Positions in Professional Male Soccer  View Article\nResearch Quarterly for Exercise and Sport Published\n\n\n\n\n\n\n\n\n\n\n\n\nNote2024\n\n\n\n\n\n\n\n\nYear\nTitle\nJournal / Status\n\n\n\n\n2024\nHeart Rate Dynamics and Quantifying Physical Fatigue in Canadian Football  View Article\nApplied Sciences Published\n\n\n2024\nCharacterization of Running Intensity in Canadian Football Based on Tactical Position  View Article\nSensors Published\n\n\n2024\nDoes fiducial marker visibility impact task performance and information processing in novice and low-time pilots?  View Article\nComputers & Graphics Published\n\n\n2024\nCharacterizing the most demanding passages of kinematic and mechanical activity in elite football: a multifactorial approach &gt; Article\nBiology of Sport Published\n\n\n\n\n\n\n\n\n\n\n\n\nNote2023\n\n\n\n\n\n\n\n\nYear\nTitle\nJournal / Status\n\n\n\n\n2023\nInvestigation of Camera-Free Eye-Tracking Glasses Compared to a Video-Based System &gt; Article\nSensors Published\n\n\n2023\nA Baseball Injury and Performance Initiative to Combat Health Risks Associated With Early Sport Specialization &gt; Article\nStrength & Conditioning Journal Published\n\n\n2023\nThe effects of task difficulty on gaze behaviour during landing with visual flight rules in low-time pilots &gt; Article\nJournal of Eye Movement Research Published\n\n\n\n\n\n\n\n\n\n\n\n\nNote2022\n\n\n\n\n\n\n\n\nYear\nTitle\nJournal / Status\n\n\n\n\n2022\nIntensity demands and peak performance of elite soccer referees during match play &gt; Article\nJournal of Science and Medicine in Sport Published\n\n\n2022\nGaze behaviour: A window into distinct cognitive processes revealed by the Tower of London test &gt; Article\nVision Research Published\n\n\n\n\n\n\n\n\n\nConference & Seminar Presentations\n\n\n\nYear\nTitle\nOrganization\n\n\n\n\n2022\nCharacterizing eye movement patterns in 1v1 situations in elite futsal\nWorld Congress on Science & Soccer 2022\n\n\n2022\nTressant ‘le beau jeu’\nSport Scientist Canada, Own the Podium\n\n\n2021\nCharacterizing team passing behavior in elite football: A topological approach  Abstract\nAthens University of Economics & Business, Greece\n\n\n2020\nMathematical modelling in professional sport  Video\nUniversity of Toronto, Canada\n\n\n2020\nTeam passing & movement analysis in professional football: Applied discrete methods  Abstract\nUniversity of Delaware, USA\n\n\n\n(Full list available on request)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Abdullah Zafar",
+    "section": "",
+    "text": "I develop computational frameworks to understand how mechanical stress and injury reshape brain structure, movement, and physiological regulation. My work bridges head impact exposure, neuroimaging, and multimodal wearable data to reveal the latent dynamics of injury, adaptation, and recovery.\n\nResearch Projects CV"
+  },
+  {
+    "objectID": "index.html#exploring-human-movement-mathematics-and-the-mind.",
+    "href": "index.html#exploring-human-movement-mathematics-and-the-mind.",
+    "title": "Abdullah Zafar",
+    "section": "",
+    "text": "I develop computational frameworks to understand how mechanical stress and injury reshape brain structure, movement, and physiological regulation. My work bridges head impact exposure, neuroimaging, and multimodal wearable data to reveal the latent dynamics of injury, adaptation, and recovery.\n\nResearch Projects CV"
+  },
+  {
+    "objectID": "index.html#focus-areas",
+    "href": "index.html#focus-areas",
+    "title": "Abdullah Zafar",
+    "section": "Focus Areas",
+    "text": "Focus Areas\n\n\nBrain–Body Interaction\nNeural and autonomic responses to fatigue and head impacts.\n\nDTI · MRI · HR Dynamics · Biomechanics\n\n\n\nMultimodal Modeling\nModeling structure and dynamics from heterogeneous sensor data.\n\nIMU · GPS · ML · Dynamical Systems\n\n\n\nTranslation & Tools\nOpen-source software and clinically meaningful movement metrics.\n\nPython · JS · Kotlin · Validation · Deployment"
+  },
+  {
+    "objectID": "index.html#experience-education",
+    "href": "index.html#experience-education",
+    "title": "Abdullah Zafar",
+    "section": "Experience & Education",
+    "text": "Experience & Education\n\n\nCurrent Positions\nPhD Researcher | CIUSSS–NIM\nConcussion modeling (HR, GPS, IMU, MRI).\nData Analytics Coordinator | Gait & Mobility Network\nClinical gait software & motor control metrics.\n\nSelected Prior Experience\nSport Scientist | Sport Performance Analytics Inc.\nModeling fatigue and tactical behavior.\nLead Football Analyst | SANAM Analytics\nScouting metrics for Saudi Football Federation.\n\n\n\nEducation\nPhD (c) — Bio-medical Sciences\nUniversité de Montréal\nMSc — Neuroscience\nUniversity of Waterloo\nHon. BSc — Math & Physics\nUniversity of Toronto"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "Sport\n\n\n\n\n\nFree-kick Trainer\n\n\n\n\n\n\nAthletic Barcodes"
+  }
+]

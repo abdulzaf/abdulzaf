@@ -1,0 +1,92 @@
+---
+title: ""
+page-layout: article
+---
+
+::: {#hero}
+::: {.hero-container}
+
+::: {.hero-text}
+## Exploring human movement, mathematics, and the mind.
+
+I develop computational frameworks to understand how mechanical stress and injury reshape brain structure, movement, and physiological regulation.
+My work bridges head impact exposure, neuroimaging, and multimodal wearable data to reveal the latent dynamics of injury, adaptation, and recovery.
+
+<div class="hero-buttons">
+<a class="btn-primary" href="research.qmd">Research</a>
+<a class="btn-secondary" href="projects.qmd">Projects</a>
+<a class="btn-secondary" href="cv.qmd">CV</a>
+</div>
+:::
+
+::: {.hero-image}
+<img src="assets/zaf_ball.jpg" alt="Abdullah Zafar"/>
+:::
+
+:::
+:::
+
+---
+
+## Focus Areas
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4 .focus-item}
+### Brain–Body Interaction
+Neural and autonomic responses to fatigue and head impacts.
+<p class="focus-methods">DTI · MRI · HR Dynamics · Biomechanics</p>
+:::
+
+::: {.g-col-12 .g-col-md-4 .focus-item}
+### Multimodal Modeling
+Modeling structure and dynamics from heterogeneous sensor data.
+<p class="focus-methods">IMU · GPS · ML · Dynamical Systems</p>
+:::
+
+::: {.g-col-12 .g-col-md-4 .focus-item}
+### Translation & Tools
+Open-source software and clinically meaningful movement metrics.
+<p class="focus-methods">Python · JS · Kotlin · Validation · Deployment</p>
+:::
+
+:::
+
+---
+
+## Experience & Education
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-7}
+### Current Positions
+
+**PhD Researcher** | CIUSSS–NIM  
+*Concussion modeling (HR, GPS, IMU, MRI).*
+
+**Data Analytics Coordinator** | Gait & Mobility Network  
+*Clinical gait software & motor control metrics.*
+
+#### Selected Prior Experience
+
+**Sport Scientist** | Sport Performance Analytics Inc.  
+*Modeling fatigue and tactical behavior.*
+
+**Lead Football Analyst** | SANAM Analytics  
+*Scouting metrics for Saudi Football Federation.*
+:::
+
+::: {.g-col-12 .g-col-md-5}
+### Education
+
+**PhD (c)** — Bio-medical Sciences  
+*Université de Montréal*
+
+**MSc** — Neuroscience  
+*University of Waterloo*
+
+**Hon. BSc** — Math & Physics  
+*University of Toronto*
+:::
+
+:::

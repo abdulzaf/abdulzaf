@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - CNAME
+
+website:
+  title: "Abdullah Zafar"
+  navbar:
+    left:
+          - href: index.qmd
+            text: Home
+          - href: projects.qmd
+            text: Projects
+          - href: research.qmd
+            text: Research
+          - href: cv.qmd
+            text: CV
+
+format:
+  html:
+    theme:
+      light: cosmo
+    css: styles.css

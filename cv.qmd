@@ -1,0 +1,78 @@
+---
+title: "Curriculum Vitae"
+page-layout: article
+---
+
+# Education & Scholarships
+
+- **PhD (in progress), Biomedical Sciences**, Université de Montréal (2025–2029)  
+  *Thesis:* Modeling the neurological sequelae of head impacts during contact sports  
+
+- **MSc, Neuroscience (Vision), University of Waterloo** (2023)  
+  *Thesis:* Characterizing & modeling visual attention during motion tracking in high-performance athletes  
+  *Awards:* Lyle S. Hallman Graduate Research Scholarship, QEII-GSST
+
+- **Honours BSc, Mathematics & Physics**, University of Toronto (2021)  
+  *Thesis:* Gait distinction via hip-knee coordination: Applications of dynamical systems theory & computational topology  
+
+- **Diploma, Fitness & Health Promotion**, Centennial College (2017)
+
+---
+
+# Current Appointments
+
+- **PhD Researcher** — CIUSSS–NIM Research Center  
+  *Concussion risk and severity modeling using HR, GPS, IMU, and MRI data*  
+
+- **Data Analytics Coordinator** — Gait & Mobility Network  
+  *Clinical-grade gait analysis software and motor control metrics development*
+
+---
+
+# Selected Prior Experience
+
+- **Lead Data Scientist / Sport Scientist** — Sport Performance Analytics Inc. (2017–2025)  
+  *Modeling athlete fatigue and tactical behavior; introduced flow field, hyper-network, and topological braid models to quantify team and player dynamics; collaborated with national federations*  
+
+- **Graduate Researcher** — University of Waterloo (2021–2024)  
+  *Modeled functional connectivity and cognitive/motor performance using graph theory, information theory, and control systems; integrated eye-tracking & motion capture technologies*  
+
+- **Research Assistant** — University of Toronto (2018–2021)  
+  *Gait event detection, data fusion, and mobile diagnostics in clinical biomechanics; modeling teaching discourse & 4D fMRI analysis in numerical cognition*  
+
+---
+
+# Research Publications (selected)
+
+1. **Zafar, A.**, Guay, S., et al. *Game-aware prediction and interpretation of heart rate dynamics in contact sports using contextually tuned linear time-invariant models* (2025, In-review: BMC Digital Health)  
+2. **Zafar, A.**, Martens, G., et al. *Effects of head impact exposure on in-game heart rate dynamics in Canadian varsity football athletes* (2025, In-review: JSAMS)  
+3. **Zafar, A.**, Guay, S., et al. *Automated play event detection from sparse GPS American football data using recurrent neural networks* (2025, Pre-print: Research Square)  
+4. Yousefian, F., **Zafar, A.**, et al. *Peak Kinematic and Mechanical Demands According to Playing Positions in Professional Male Soccer* (2025, Research Quarterly for Exercise and Sport)  
+5. **Zafar, A.**, Guay, S., et al. *Heart Rate Dynamics and Quantifying Physical Fatigue in Canadian Football* (2024, Applied Sciences)  
+
+*(Full list available on Google Scholar)*
+
+---
+
+# Projects & Software (selected)
+
+- **TRACE** *(in-development)* — Python, multi-modal
+  *Time-Series Representation, Annotation, and Computation for Experiments: A modular framework for managing, annotating, and analyzing multimodal time series data in behavioral experiments.*
+
+- **TrakScribe** *(in-development)* — Python, GPS
+  *Open-source toolkit for analyzing and annotating sport GPS data.*  
+
+- **Athletic Barcodes & BreakAway Apps** — Computer vision and performance analytics platforms  
+  *Mobile/web apps for talent identification, coaching, and athlete monitoring.*
+
+---
+
+# Conference & Seminar Presentations (selected)
+
+- **Characterizing eye movement patterns in 1v1 situations in elite futsal**, World Congress on Science and Soccer (2022)  
+- **Characterizing team movement patterns in elite football**, World Congress on Science and Soccer (2022)  
+- **Hyper-Networks for Team Selection in Professional Football**, Canadian Undergraduate Mathematics Conference (2019)  
+- **Structuring Patterns in Team Movement Using Vector Fields**, MathSport International (2019)  
+
+*(Full list available on request)*
+
