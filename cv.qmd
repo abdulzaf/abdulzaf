@@ -27,12 +27,13 @@ page-layout: article
 - **Data Analytics Coordinator** — Gait & Mobility Network  
   *Clinical-grade gait analysis software and motor control metrics development*
 
+- **Lead Data Scientist / Sport Scientist** — Sport Performance Analytics Inc.  
+  *Modeling athlete fatigue and tactical behavior; introduced flow field, hyper-network, and topological braid models to quantify team and player dynamics; collaborated with national federations*  
+
 ---
 
 # Selected Prior Experience
 
-- **Lead Data Scientist / Sport Scientist** — Sport Performance Analytics Inc. (2017–2025)  
-  *Modeling athlete fatigue and tactical behavior; introduced flow field, hyper-network, and topological braid models to quantify team and player dynamics; collaborated with national federations*  
 
 - **Graduate Researcher** — University of Waterloo (2021–2024)  
   *Modeled functional connectivity and cognitive/motor performance using graph theory, information theory, and control systems; integrated eye-tracking & motion capture technologies*  
