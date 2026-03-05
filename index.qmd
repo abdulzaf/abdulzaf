@@ -67,13 +67,8 @@ Open-source software and clinically meaningful movement metrics.
 **Data Analytics Coordinator** | Gait & Mobility Network  
 *Clinical gait software & motor control metrics.*
 
-#### Selected Prior Experience
-
 **Sport Scientist** | Sport Performance Analytics Inc.  
 *Modeling fatigue and tactical behavior.*
-
-**Lead Football Analyst** | SANAM Analytics  
-*Scouting metrics for Saudi Football Federation.*
 :::
 
 ::: {.g-col-12 .g-col-md-5}
