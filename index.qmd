@@ -62,13 +62,13 @@ Open-source software and clinically meaningful movement metrics.
 ### Current Positions
 
 **PhD Researcher** | CIUSSS–NIM  
-*Concussion modeling (HR, GPS, IMU, MRI).*
+*Modeling TBI in sport (HR, GPS, IMU, MRI).*
 
-**Data Analytics Coordinator** | Gait & Mobility Network  
-*Clinical gait software & motor control metrics.*
+**Data and Machine Learning Systems Developer** | Neurocognition & Mobility Lab (UWaterloo)  
+*Building reproducible data systems for academic research.*
 
-**Sport Scientist** | Sport Performance Analytics Inc.  
-*Modeling fatigue and tactical behavior.*
+**Lead Data & Sport Scientist** | Sport Performance Analytics Inc.  
+*Quantitative modeling and software development for soccer performance analytics.*
 :::
 
 ::: {.g-col-12 .g-col-md-5}

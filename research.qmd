@@ -34,6 +34,13 @@ page-layout: article
 
 # Journal Articles
 ::: {.callout-note collapse="false" appearance="minimal"}
+## 2026
+| Year | Title | Journal / Status |
+|------|-------|----------------|
+| 2026 | Effects of head impact exposure on in-game heart rate dynamics in Canadian varsity football athletes <br/> [View Article](https://doi.org/10.1016/j.jsams.2026.05.001) | JSAMS <span class="badge badge-published">Published</span> |
+:::
+
+::: {.callout-note collapse="false" appearance="minimal"}
 ## 2025
 | Year | Title | Journal / Status |
 |------|-------|----------------|
