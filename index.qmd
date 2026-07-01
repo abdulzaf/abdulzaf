@@ -7,10 +7,9 @@ page-layout: article
 ::: {.hero-container}
 
 ::: {.hero-text}
-## Exploring human movement, mathematics, and the mind.
+## Exploring the intersection of mathematical and biological structure.
 
-I develop computational frameworks to understand how mechanical stress and injury reshape brain structure, movement, and physiological regulation.
-My work bridges head impact exposure, neuroimaging, and multimodal wearable data to reveal the latent dynamics of injury, adaptation, and recovery.
+I am a PhD researcher developing computational models and open research tools that translate complex biological measurements into interpretable representations of physiology, movement, and neurological function. My work spans wearable sensing, neuroimaging, biomechanics, and dynamical systems, with applications ranging from sport-related brain injury to Parkinson's disease.
 
 <div class="hero-buttons">
 <a class="btn-primary" href="research.qmd">Research</a>
@@ -33,21 +32,21 @@ My work bridges head impact exposure, neuroimaging, and multimodal wearable data
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-4 .focus-item}
-### Brain–Body Interaction
-Neural and autonomic responses to fatigue and head impacts.
-<p class="focus-methods">DTI · MRI · HR Dynamics · Biomechanics</p>
+### Mathematical Modeling
+Developing computational models that reveal structure and dynamics from multimodal biomedical data.
+<p class="focus-methods">Dynamical Systems · Machine Learning · IMU · GPS · HR</p>
 :::
 
 ::: {.g-col-12 .g-col-md-4 .focus-item}
-### Multimodal Modeling
-Modeling structure and dynamics from heterogeneous sensor data.
-<p class="focus-methods">IMU · GPS · ML · Dynamical Systems</p>
+### Biological Systems
+Investigating how the nervous system, physiology, and biomechanics interact across health, disease, and performance.
+<p class="focus-methods">Neuroimaging · Physiology · Biomechanics · Biomarkers</p>
 :::
 
 ::: {.g-col-12 .g-col-md-4 .focus-item}
-### Translation & Tools
-Open-source software and clinically meaningful movement metrics.
-<p class="focus-methods">Python · JS · Kotlin · Validation · Deployment</p>
+### Translation & Software
+Building open research software and quantitative tools for scientific and clinical discovery.
+<p class="focus-methods">Python · JavaScript · Validation · Visualization</p>
 :::
 
 :::
@@ -67,14 +66,12 @@ Open-source software and clinically meaningful movement metrics.
 **Data and Machine Learning Systems Developer** | Neurocognition & Mobility Lab (UWaterloo)  
 *Building reproducible data systems for academic research.*
 
-**Lead Data & Sport Scientist** | Sport Performance Analytics Inc.  
-*Quantitative modeling and software development for soccer performance analytics.*
 :::
 
 ::: {.g-col-12 .g-col-md-5}
 ### Education
 
-**PhD (in-progress)** — Bio-medical Sciences  
+**PhD (in-progress)** — Biomedical Sciences  
 *Université de Montréal*
 
 **MSc** — Neuroscience  
