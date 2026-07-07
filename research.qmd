@@ -37,6 +37,7 @@ page-layout: article
 ## 2026
 | Year | Title | Journal / Status |
 |------|-------|----------------|
+| 2026 | Approaching the limit: Modeling the physiological bounds of playable space in football <br/> [View Article](https://www.biorxiv.org/content/10.64898/2026.07.04.736520v1) | bioRxiv <span class="badge badge-preprint">Preprint</span> |
 | 2026 | Effects of head impact exposure on in-game heart rate dynamics in Canadian varsity football athletes <br/> [View Article](https://doi.org/10.1016/j.jsams.2026.05.001) | JSAMS <span class="badge badge-published">Published</span> |
 :::
 
